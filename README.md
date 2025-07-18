@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C++, Qt, C#, .NET, Python, PyQt, SQL Server, MySQL, Sqlite**
 
-- 📫 How to reach me **berkacunas@gmail.com**
+- 📫 How to reach me **berk@deponessoft.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
