@@ -4,7 +4,7 @@
     <strong>Software Developer & Open Source Creator</strong>
   </p>
   <p>
-    Founder of <a href="https://github.com/DeponesLabs"><strong>@DeponesLabs</strong></a>
+    Founder of <a href="https://github.com/DeponesLabs"><strong>@Depones Labs</strong></a>
   </p>
 
   <a href="https://github.com/berkacunas">
@@ -27,7 +27,7 @@ I am a freelance software developer based in **Istanbul**, specializing in build
 My development philosophy centers on **"Pro Workflows"**: Strict CI/CD pipelines, automated testing, and clean architecture.
 
 * 🔭 I’m currently working on **[Glyph](https://github.com/berkacunas/Glyph)**.
-* 🏢 I’m building tools at **[Depones Labs](https://github.com/DeponesLabs)**.
+* 🏢 I’m building data tools at **[Depones Studio](https://github.com/DeponesLabs)**.
 * 🌱 I’m currently exploring **Electron** and **Advanced Qt Rendering**.
 * 💬 Ask me about **Python, PySide6, WinForms, SQL, and Git Workflows**.
 
@@ -58,8 +58,8 @@ My development philosophy centers on **"Pro Workflows"**: Strict CI/CD pipelines
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkacunas&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Berk's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkacunas&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-xi-two-59.vercel.app/api?username=berkacunas&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Berk's GitHub Stats" />
+  <img src="https://github-readme-stats-xi-two-59.vercel.app/api/top-langs/?username=berkacunas&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
