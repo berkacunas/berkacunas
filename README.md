@@ -4,7 +4,7 @@
     <strong>Software Developer & Open Source Creator</strong>
   </p>
   <p>
-    Founder of <a href="https://github.com/DeponesStudio"><strong>@DeponesStudio</strong></a>
+    Founder of <a href="https://github.com/DeponesLabs"><strong>@DeponesLabs</strong></a>
   </p>
 
   <a href="https://github.com/berkacunas">
@@ -27,7 +27,7 @@ I am a freelance software developer based in **Istanbul**, specializing in build
 My development philosophy centers on **"Pro Workflows"**: Strict CI/CD pipelines, automated testing, and clean architecture.
 
 * 🔭 I’m currently working on **[Glyph](https://github.com/berkacunas/Glyph)**.
-* 🏢 I’m building tools at **[Depones Studio](https://github.com/DeponesStudio)**.
+* 🏢 I’m building tools at **[Depones Labs](https://github.com/DeponesLabs)**.
 * 🌱 I’m currently exploring **Electron** and **Advanced Qt Rendering**.
 * 💬 Ask me about **Python, PySide6, WinForms, SQL, and Git Workflows**.
 
@@ -49,7 +49,7 @@ My development philosophy centers on **"Pro Workflows"**: Strict CI/CD pipelines
 | :---: | :---: | :---: |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![PySide6](https://img.shields.io/badge/PySide6-Qt%20for%20Python-green?style=flat-square) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | **WinForms / WPF** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![DotNet](https://img.shields.io/badge/.NET%20(WPF%2FWinForms)-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
