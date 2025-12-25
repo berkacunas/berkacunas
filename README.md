@@ -27,7 +27,7 @@ I am a freelance software developer based in **Istanbul**, specializing in build
 My development philosophy centers on **"Pro Workflows"**: Strict CI/CD pipelines, automated testing, and clean architecture.
 
 * 🔭 I’m currently working on **[Glyph](https://github.com/berkacunas/Glyph)**.
-* 🏢 I’m building data tools at **[Depones Studio](https://github.com/DeponesLabs)**.
+* 🏢 I’m building data tools at **[Depones Labs](https://github.com/DeponesLabs)**.
 * 🌱 I’m currently exploring **Electron** and **Advanced Qt Rendering**.
 * 💬 Ask me about **Python, PySide6, WinForms, SQL, and Git Workflows**.
 
