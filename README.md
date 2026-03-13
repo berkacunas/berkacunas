@@ -64,7 +64,7 @@ Recently, I have also expanded my toolkit into **Go (Golang)** to architect ligh
 
 <div align="center">
   <img src="https://github-readme-stats-xi-two-59.vercel.app/api?username=berkacunas&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Berk's GitHub Stats" />
-  <img src="https://github-readme-stats-xi-two-59.vercel.app/api/top-langs/?username=berkacunas&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-xi-two-59.vercel.app/api/top-langs/?username=berkacunas&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html" height="180" alt="Top Languages" />
 </div>
 
 ---
