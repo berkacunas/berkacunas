@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Berk Acunaş</h1>
+  <h1>Hello, I'm Berk Acunas</h1>
   <p>
     <strong>Software Developer & Open Source Creator</strong>
   </p>
@@ -22,22 +22,26 @@
 
 ### 👨‍💻 About Me
 
-I am a freelance software developer based in **Istanbul**, specializing in building robust desktop applications and developer tools. I combine the power of **Python (Qt/PySide6)** and **C# (.NET)** to create software that is both performant and user-friendly.
+I am a freelance software developer based in **Istanbul**, specializing in building robust desktop applications and developer tools. I combine the power of **Python (Qt/PySide6)** and **C# (.NET)** to create software that is both performant and user-friendly, with a strong emphasis on "Pro Workflows," strict CI/CD pipelines, and clean architecture.
 
-My development philosophy centers on **"Pro Workflows"**: Strict CI/CD pipelines, automated testing, and clean architecture.
+Recently, I have also expanded my toolkit into **Go (Golang)** to architect lightning-fast, compiled terminal utilities when the job requires high-performance, standalone execution.
 
-* 🔭 I’m currently working on **[Glyph](https://github.com/berkacunas/Glyph)**.
+* 🔭 I’m currently working on **[Glyph](https://github.com/berkacunas/Glyph)** and **[turbo-tosec](https://github.com/berkacunas/turbo-tosec)**.
 * 🏢 I’m building data tools at **[Depones Labs](https://github.com/DeponesLabs)**.
-* 🌱 I’m currently exploring **Electron** and **Advanced Qt Rendering**.
+* 🌱 I’m currently exploring **Advanced Qt Rendering** and **Terminal User Interfaces (TUI)**.
 * 💬 Ask me about **Python, PySide6, WinForms, SQL, and Git Workflows**.
 
 ---
 
-### 🚀 Flagship Project
+### 🚀 Flagship Projects
 
 | [**Glyph**](https://github.com/berkacunas/Glyph) |
 | :--- |
 | **A modern, multi-tab Markdown editor built with Python & PySide6.**<br>Features live preview, PDF export, and a distraction-free interface.<br><br>[![Release](https://img.shields.io/github/v/release/berkacunas/Glyph?style=flat-square)](https://github.com/berkacunas/Glyph/releases/latest) [![License](https://img.shields.io/badge/license-GPLv3-blue?style=flat-square)](https://github.com/berkacunas/Glyph/blob/main/LICENSE) |
+
+| [**turbo-tosec**](https://github.com/berkacunas/turbo-tosec) |
+| :--- |
+| **A high-speed utility for managing and organizing TOSEC collections.**<br>Designed for performance and precision in handling retro computing archives.<br><br>[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/berkacunas/turbo-tosec) |
 
 ---
 
@@ -45,11 +49,12 @@ My development philosophy centers on **"Pro Workflows"**: Strict CI/CD pipelines
 
 <div align="center">
 
-| Languages | Frameworks & Libraries | Tools & DevOps |
+| Core Languages | Frameworks & UI | Tools & DevOps |
 | :---: | :---: | :---: |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![PySide6](https://img.shields.io/badge/PySide6-Qt%20for%20Python-green?style=flat-square) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![DotNet](https://img.shields.io/badge/.NET%20(WPF%2FWinForms)-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![BubbleTea](https://img.shields.io/badge/BubbleTea-TUI%20Framework-purple?style=flat-square) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 
 </div>
 
