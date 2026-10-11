@@ -47,6 +47,8 @@ Recently, I have also expanded my toolkit into **Go (Golang)** to architect ligh
 
 ### 🛠️ Tech Stack
 
+
+ <!-- TECH_STACK_START -->
 <div align="center">
 
 | Core Languages | Frameworks & UI | Tools & DevOps |
@@ -57,6 +59,7 @@ Recently, I have also expanded my toolkit into **Go (Golang)** to architect ligh
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![BubbleTea](https://img.shields.io/badge/BubbleTea-TUI%20Framework-purple?style=flat-square) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 
 </div>
+<!-- TECH_STACK_END --> 
 
 ---
 
